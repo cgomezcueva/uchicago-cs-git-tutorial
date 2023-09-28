@@ -1,3 +1,3 @@
 Chris Gomez cgomezcueva
-UChicago CS Git Tutoria
+UChicago CS Git Tutorial
 Git is pretty cool
